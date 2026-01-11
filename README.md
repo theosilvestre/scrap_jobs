@@ -1,2 +1,5 @@
-# tp-git_votre-nom
-test modif puis commit
+# Objective :
+- Scrap job vacancies online.
+
+# How will it be done ?
+- Using node.js with redis, axios and cheerio libraries.
